@@ -1,3 +1,34 @@
-# Dead simple example of how to create an MDX blog with Next.js
+# Getting Started
+Clone this repository by running the following command:
 
-You can find the post explaining the basic features of this blog [here](codeconqueror.com/blog/building-a-blog-with-next-js).
+```shell
+git clone https://github.com/me-io/nextjs-starter.git
+```
+
+Install the dependencies:
+
+```shell
+yarn
+```
+
+Or when using NPM
+
+```shell
+npm install
+```
+
+Run the server by running the following command:
+
+```shell
+    yarn dev
+```
+
+Or when using NPM
+
+```shell
+   npm run dev
+```
+
+Open the following link inside your browser:
+
+http://localhost:3000/
